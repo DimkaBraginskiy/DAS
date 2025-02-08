@@ -1,4 +1,4 @@
-This project involves Distributed Averaging System.
+This project involves Distributed Averaging System based on UDP.
 This project simulates master-slave architecure where multiple Slaves can send values
 to a specific Master.
 The Master on it`s side stores numbers which were sent by Slaves and computes the average 
